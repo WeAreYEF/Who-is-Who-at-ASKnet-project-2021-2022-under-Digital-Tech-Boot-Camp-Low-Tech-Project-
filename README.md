@@ -42,4 +42,6 @@ By saying who is who,we mean those who attended the training during this project
 # 7.Catherine
 - TOT website for low tech bootcamp.
 ![](Images/IMG_20220416_055431_738.jpg)
+# Duku Godfrey
+- Tech boot camp participant
 
