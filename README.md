@@ -101,6 +101,7 @@ The areas covered in the website included; content management system, local inst
   - The project has strengthened the relationship between the organisation and the host community,In the way that continuation of it will lead to reduction of the alarming number of school dropout within the settlement which will improve their livelihood.
   
   - capacity building ,the trained participants are now able to solve media related technicalities by themselves,And they are dispersing the skills to the ones who are yet to be recruited.
+![](Images/bctech.jpg)
   # Achievements;
   
   - The project improved the skills of participants in the use of basic computer applications and internet use. 
