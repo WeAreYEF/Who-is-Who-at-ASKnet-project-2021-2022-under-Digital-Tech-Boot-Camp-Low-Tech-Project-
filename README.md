@@ -37,13 +37,13 @@ By saying who is who,we mean those who attended the training during this project
 - Boot camp participant
 ![](Images/IMG_20220416_054143_549.jpg)
 # 6.Ocen Patrick
-- Tech boot camp participant
+- Digital Tech boot camp participant
 ![](Images/IMG_20220416_054812_267.jpg)
 # 7.Catherine
 - TOT website for low tech bootcamp.
 ![](Images/IMG_20220416_055431_738.jpg)
 # 8.Duku Godfrey
-- Tech boot camp participant
+- Digital Tech boot camp participant
 # 9.Duku Patrick
 - participant podcast
 # 10.Amoko Joseph
