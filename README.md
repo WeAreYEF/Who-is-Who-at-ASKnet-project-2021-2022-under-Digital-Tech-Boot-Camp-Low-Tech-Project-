@@ -38,4 +38,7 @@ By saying who is who,we mean those who attended the training during this project
 # 6.Ocen Patrick
 - Tech boot camp participant
 ![](Images/IMG_20220416_054812_267.jpg)
+# 7.Catherine
+- - TOT website for low tech bootcamp.
+!
 
