@@ -22,6 +22,6 @@ By saying who is who,we mean those who attended the training during this project
 - lead expert
 - member of # ASKnet
 - member of GIG (Global Innovation Gathering)
-- software expert(computer)
+- participant tech boot camp and podcasts.
     
 
