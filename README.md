@@ -17,5 +17,11 @@ By saying who is who,we mean those who attended the training during this project
 - member of GIG (Global International Gathering)
 
 ![](Images/IMG_20220413_054501_198.jpg)
+# 2.Dut Andrew kulang.
+- GitHub participant
+- lead expert
+- member of # ASKnet
+- member of GIG (Global Innovation Gathering)
+- software expert(computer)
     
 
