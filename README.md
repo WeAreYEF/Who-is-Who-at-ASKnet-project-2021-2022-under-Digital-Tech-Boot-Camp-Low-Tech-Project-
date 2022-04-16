@@ -27,4 +27,5 @@ By saying who is who,we mean those who attended the training during this project
 # Asienzo Scovia
 - Boot camp participant
 - Comedian at mizlight comedy  
+![](Images/IMG_20220416_052820_494.jpg)
 
