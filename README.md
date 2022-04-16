@@ -121,7 +121,7 @@ The areas covered in the website included; content management system, local inst
   
   - Most of the trainees had limited exposure to computers (Majority do not own computers), this slowed the training progress, we also underestimated the costs for expert fees, hence we couldn’t afford to hire one for App development. 
    
-  - The boot camp training was planned to have 10 participants, however, we enrolled 9 participants due to a shortage of computers for use. We had 6 computers and 3 of the participants came with their own.
+  - The boot camp training was planned to have participants, however, we enrolled participants due to a shortage of computers for use. We had  computers and of the participants came with their own.
   
   - There was aproblem of power,due to hiking of fuel prices It has been a great challenge as working hours reduced with an aim of utilizing the little budget for fuel.
   
