@@ -34,4 +34,7 @@ By saying who is who,we mean those who attended the training during this project
 # 5.maridio Janet
 - Boot camp participant
 ![](Images/IMG_20220416_054143_549.jpg)
+# 6.Ocen Patrick
+- Tech boot camp participant
+![](Images/IMG_20220416_054812_267.jpg)
 
