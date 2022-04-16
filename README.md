@@ -23,5 +23,5 @@ By saying who is who,we mean those who attended the training during this project
 - member of # ASKnet
 - member of GIG (Global Innovation Gathering)
 - participant tech boot camp and podcasts.
-    
+  ![](Images/IMG_20220416_052226_047.jpg)  
 
