@@ -88,7 +88,8 @@ The areas covered in the website included; content management system, local inst
   - The trainees learned to create Repositories, fork, create files in GitHub repository, commit changes in GitHub, GitHub issues, pull requests, merge pull requests, Branches, markdown files.
    
    - The project has overall archived its objectives, the participants were able to gain knowledge and practices developed website <RefugeeConnect >not hosted online yet, they also learned content creation and publication online.
-  
+
+  ![](Images/kasiryee.jpg)
   
   - The trainees demonstrated the ability to comfortably use GitHub as a collaborating software for knowledge sharing, they used it to document the web development training guide to make it accessible to the refugees.
   
