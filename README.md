@@ -47,5 +47,7 @@ By saying who is who,we mean those who attended the training during this project
 # 9.Duku Patrick
 - participant podcast
 # 10.Amoko Joseph
+# 11.Amanyara Allan
+- GitHub participant
 
 
