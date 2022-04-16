@@ -31,4 +31,7 @@ By saying who is who,we mean those who attended the training during this project
 # 4.Aya Beatrice
 - Tech bootcamp participant
 ![](Images/IMG_20220416_053507_415.jpg)
+# 5.maridio Janet
+- Boot camp participant
+![](Images/IMG_20220416_054143_549.jpg)
 
