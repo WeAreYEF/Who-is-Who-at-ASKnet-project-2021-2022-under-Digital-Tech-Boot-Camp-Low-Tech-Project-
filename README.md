@@ -51,6 +51,7 @@ By saying who is who,we mean those who attended the training during this project
 # 11.Amanyara Allan
 - GitHub participant
 # partners
-![](Images/r0g_logo.png)![](Images/asknet-logo.png)![](Images/yef-logo.jpeg)
+
+![](Images/r0g_logo.png)![](Images/asknet-logo.png) ![](Images/yef-logo.jpeg)
 
 
