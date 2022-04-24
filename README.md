@@ -141,6 +141,7 @@ The areas covered in the website included; content management system, local inst
   - The Youth Empowerment Foundation (YEF) applauds r0g-agency  for the opportunity given. YEF was able to train participants to become TOT to led in the community experts, and provide capacity building. We are very grateful for the partnership and are optimistic for more opportunities to work together in the development of media and Technology in the refugee settlement. 
 
  # Partners and funders.
+This project was funded by the federal ministry of economic cooperation and development **(BMZ)** in berlin Germany, supported by Agency for development and critical transformation **(R0g)** through Access to skills and knowledge network **(ASKnet)** and implemented by The Youth Empowerment Foundation **(YEF)**
 |BMZ|R0g Agency|ASKnet|YEF|
 |:---- |:-----|-----|:----|
 |![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g Agency logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)|![YEF logo](Images/yef-logo.jpeg)
