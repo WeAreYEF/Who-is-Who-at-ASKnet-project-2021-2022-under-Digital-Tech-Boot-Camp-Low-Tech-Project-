@@ -55,14 +55,14 @@ By saying who is who,we mean those who attended the training during this project
 
 
 
-# Actual target population;
+# Actual target population
 
 
 
 
 
 
-# The overall project assessment.
+# The overall project assessment
 The boot camp started with an orientaion of the participants to the program as a kick off to the training, this was followed by one week basic computer skills assessed by the lead trainer.
 
 In the third week,they were introduced to coding basics and web development which lasted five weeks
@@ -83,7 +83,7 @@ The areas covered in the website included; content management system, local inst
  
  The participants teamed up to build the RefugeeConnect website, an information platform that publishes content about refugees and makes access to information easy for them.
   # Overall impacts of the project
-  # short- term;
+  # short- term
   
   - The trainees learned to create Repositories, fork, create files in GitHub repository, commit changes in GitHub, GitHub issues, pull requests, merge pull requests, Branches, markdown files.
    ![](Images/IMG_20220417_011725_240.jpg)
@@ -102,7 +102,7 @@ The areas covered in the website included; content management system, local inst
   
   - capacity building ,the trained participants are now able to solve media related technicalities by themselves,And they are dispersing the skills to the ones who are yet to be recruited.
 ![](Images/bctech.jpg)
-  # Achievements;
+  # Achievements
   
   - The project improved the skills of participants in the use of basic computer applications and internet use. 
   
@@ -118,7 +118,7 @@ The areas covered in the website included; content management system, local inst
   
   - They also acquired skills in the use of documentation/ collaborating software GitHub to share knowledge and collaborate in creating programs.
   
-  # Challenges;
+  # Challenges
   
   - Some participants were slow to learn; they were given more time to practice which slowed down the training progress ,but  however,we managed to meet the schedule by teaming them up through peer-to-peer learning sessions.
   
@@ -129,14 +129,14 @@ The areas covered in the website included; content management system, local inst
   - There was aproblem of power,due to hiking of fuel prices It has been a great challenge as working hours reduced with an aim of utilizing the little budget for fuel.
   
   - The training gadgets were not enough for participants for example computers.
-  # Sustainability;
+  # Sustainability
   
   - The participants have formed a network of experts on web developments,We will facilitate them with computers,power,space and market them to the business entities and other community based organizations to build them website.The website they built< RefugeesConnect> will generate them money in adverts to keep it running by host fee renewal.
   
  
  
 
-  # Other remarks;
+  # Other remarks
   
   - The Youth Empowerment Foundation (YEF) applauds r0g-agency  for the opportunity given. YEF was able to train participants to become TOT to led in the community experts, and provide capacity building. We are very grateful for the partnership and are optimistic for more opportunities to work together in the development of media and Technology in the refugee settlement. 
 
