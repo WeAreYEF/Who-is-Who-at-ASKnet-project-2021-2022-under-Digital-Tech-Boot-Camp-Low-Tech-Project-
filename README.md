@@ -143,6 +143,6 @@ The areas covered in the website included; content management system, local inst
  # Partners 
 |BMZ|R0g Agency|ASKnet|YEF|
 |:---- |:-----|-----|:----|
-|![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g Agency logo](Images/r0g_logo.png)
+|![BMZ logo](Images/IMG_20220424_025811_585.jpg)|![R0g Agency logo](Images/r0g_logo.png)|![ASKnet logo](Images/asknet-logo.png)
 
 
