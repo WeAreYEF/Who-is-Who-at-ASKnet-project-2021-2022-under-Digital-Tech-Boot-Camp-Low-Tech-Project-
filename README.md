@@ -50,6 +50,8 @@ By saying who is who,we mean those who attended the training during this project
 - participant podcast
 # 11.Amanyara Allan
 - GitHub participant
+# 12.Loang GOP Koch
+- participant tech boot camp
 
 
 
