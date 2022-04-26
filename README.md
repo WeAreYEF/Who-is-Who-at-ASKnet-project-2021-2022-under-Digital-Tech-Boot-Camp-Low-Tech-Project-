@@ -52,6 +52,7 @@ By saying who is who,we mean those who attended the training during this project
 - GitHub participant
 # 12.Loang GOP Koch
 - participant tech boot camp
+![](Images/IMG_20220426_105650_749.jpg)
 
 
 
