@@ -48,6 +48,7 @@ By saying who is who,we mean those who attended the training during this project
 - participant podcast
 # 10.Amoko Joseph
 - participant podcast
+![](Images/IMG_20220426_121650_075.jpg)
 # 11.Amanyara Allan
 - GitHub participant
 # 12.Loang GOP Koch
