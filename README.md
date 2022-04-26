@@ -46,6 +46,7 @@ By saying who is who,we mean those who attended the training during this project
 - Digital Tech boot camp participant
 # 9.Duku Patrick
 - participant podcast
+![](Images/IMG_20220426_121700_829.jpg)
 # 10.Amoko Joseph
 - participant podcast
 ![](Images/IMG_20220426_121650_075.jpg)
