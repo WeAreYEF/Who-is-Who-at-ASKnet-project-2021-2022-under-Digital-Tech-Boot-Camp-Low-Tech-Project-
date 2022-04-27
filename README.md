@@ -52,6 +52,7 @@ By saying who is who,we mean those who attended the training during this project
 ![](Images/IMG_20220426_121650_075.jpg)
 # 11.Amanyara Allan
 - GitHub participant
+![](Images/IMG_20220426_111811_557.jpg)
 # 12.Loang GOP Koch
 - participant tech boot camp
 ![](Images/IMG_20220426_105650_749.jpg)
