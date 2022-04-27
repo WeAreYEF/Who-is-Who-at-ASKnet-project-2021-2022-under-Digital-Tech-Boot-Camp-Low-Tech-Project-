@@ -44,6 +44,7 @@ By saying who is who,we mean those who attended the training during this project
 ![](Images/IMG_20220416_055431_738.jpg)
 # 8.Duku Godfrey
 - Digital Tech boot camp participant
+![](Images/IMG_20220427_044343_108.jpg)
 # 9.Duku Patrick
 - participant podcast
 ![](Images/IMG_20220426_121700_829.jpg)
